@@ -1,6 +1,6 @@
-* 利用枚举类来去除工厂类里的大量switch case语句
+# 利用枚举类来去除工厂类里的大量switch case语句
 
-```
+```java
 class Woman extends User {
     public Woman() {
         System.out.println("woman");
